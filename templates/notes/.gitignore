@@ -1,0 +1,2 @@
+# Raw evidence (screenshots, exported logs) stays on disk but out of git history.
+evidence/
